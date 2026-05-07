@@ -36,7 +36,6 @@ Developer passionate about building elegant solutions. Focused on clean code and
 
 - **GitHub:** [@khilesh13](https://github.com/khilesh13)
 - **LinkedIn:** [https://www.linkedin.com/in/khilesh-kumar-8ab24925b](#)
-- **Twitter/X:** [@yourhandle](#)
 - **Email:** [khileshkomre53@gmail.com](#)
 
 ---
