@@ -1,6 +1,6 @@
 # Khilesh
 
-> Minimal. Clean. Focused.
+
 
 ---
 
