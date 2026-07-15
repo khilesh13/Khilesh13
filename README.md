@@ -22,14 +22,6 @@ Developer passionate about building elegant solutions. Focused on clean code and
 
 ---
 
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| [Project One](#) | Brief description of your project |
-| [Project Two](#) | Brief description of your project |
-| [Project Three](#) | Brief description of your project |
-
 ---
 
 ## Connect
